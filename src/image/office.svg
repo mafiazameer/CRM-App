@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="office" transform="translate(0.5 0.5)">
+    <path id="Path_6" data-name="Path 6" d="M11.632,13h-.566a.566.566,0,1,0,0,1.132h.566a.566.566,0,1,0,0-1.132Z" transform="translate(0.151 0.121)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_7" data-name="Path 7" d="M11.632,9h-.566a.566.566,0,1,0,0,1.132h.566a.566.566,0,0,0,0-1.132Z" transform="translate(0.151 -0.253)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_8" data-name="Path 8" d="M11.632,5h-.566a.566.566,0,0,0,0,1.132h.566a.566.566,0,1,0,0-1.132Z" transform="translate(0.151 -0.626)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_9" data-name="Path 9" d="M7.632,13H7.066a.566.566,0,0,0,0,1.132h.566a.566.566,0,1,0,0-1.132Z" transform="translate(-0.334 0.121)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_10" data-name="Path 10" d="M7.632,9H7.066a.566.566,0,0,0,0,1.132h.566A.566.566,0,1,0,7.632,9Z" transform="translate(-0.334 -0.253)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_11" data-name="Path 11" d="M7.632,5H7.066a.566.566,0,0,0,0,1.132h.566A.566.566,0,0,0,7.632,5Z" transform="translate(-0.334 -0.626)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_12" data-name="Path 12" d="M15.632,13h-.566a.566.566,0,1,0,0,1.132h.566a.566.566,0,1,0,0-1.132Z" transform="translate(0.636 0.121)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_13" data-name="Path 13" d="M15.632,9h-.566a.566.566,0,1,0,0,1.132h.566a.566.566,0,1,0,0-1.132Z" transform="translate(0.636 -0.253)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_14" data-name="Path 14" d="M15.632,5h-.566a.566.566,0,1,0,0,1.132h.566a.566.566,0,1,0,0-1.132Z" transform="translate(0.636 -0.626)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_15" data-name="Path 15" d="M22.955,21.909H21.909V2.045A1.045,1.045,0,0,0,20.864,1H4.136A1.045,1.045,0,0,0,3.091,2.045V21.909H2.045a1.045,1.045,0,0,0,0,2.091H22.955a1.045,1.045,0,1,0,0-2.091Zm-12.545,0V19.818h4.182v2.091Zm6.273,0V18.773a1.045,1.045,0,0,0-1.045-1.045H9.364a1.045,1.045,0,0,0-1.045,1.045v3.136H5.182V3.091H19.818V21.909Z" transform="translate(-1 -1)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
